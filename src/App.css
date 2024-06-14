@@ -1,0 +1,31 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin-left: 5px;
+  }
+  
+  button:hover {
+    cursor: pointer;
+  }
+  
+  span {
+    margin-left: 10px;
+  }
+  
+  span.completed {
+    text-decoration: line-through;
+  }
+  
